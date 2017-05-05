@@ -1,0 +1,7 @@
+*.gb
+*.gbc
+wiki/*/*.txt
+.idea/workspace.xml
+*.iml
+.idea/modules.xml
+*.xml
