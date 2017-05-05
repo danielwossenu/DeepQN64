@@ -14,7 +14,7 @@ print(port)
 
 
 -- wait for a connection from any client
-server:settimeout(60)
+server:settimeout(20)
 local client = server:accept()
 print(client)
 local line, err = client:receive()
